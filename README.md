@@ -41,4 +41,4 @@ Google Hash Code 2020 Practise Problem More Pizza Dynamic and Greedy Solution
 <table>
 
 <h2>Sample Output</h2>
-<img src="ss.png" width="798/>
+<img src="/ss.png" width="798"/>
